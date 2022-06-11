@@ -1,0 +1,256 @@
+/* All font at site*/
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F5F7FA;
+}
+
+/* For both parts */
+.separation{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #FFFFFF;
+    width: 1200px;
+    margin: 0 auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+/* Right part */
+.rp{
+    margin: 105px 90px;
+}
+
+/* *********************************************************************** */
+
+/* Introdaction */
+.main_content{
+    margin-bottom: 45px;
+}
+
+/* CV on position */
+.position{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+/* Candidate name */
+.name{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-bottom: 25px;
+}
+
+/* Small discription */
+.description{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 450px;
+    border: 1px solid #fff;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Title of right side */
+.rp_title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+/* *********************************************************************** */
+
+.project{
+    margin-bottom: 50px;    
+}
+
+.proj_list{
+    padding-left: 0;
+    margin-left: 18px;
+}
+
+/* Color of numbers */
+.proj_item{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;    
+}
+
+/* Dominant text in Proj. chapter  */
+.proj_text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 5px;
+}
+
+.proj_bracket{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+/* ************************************************************************** */
+.job{
+    width: 550px;
+    margin-bottom: 45px;
+}
+
+
+.job_position{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.work_place{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+
+.time{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 5px;
+}
+
+.line{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+
+.work_list{
+    padding: 0;
+    margin-left: 22px;
+}
+
+.work_list_text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+/* *********************************************************************** */
+.edu_org{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+    margin-bottom: 10px;
+}
+
+
+.specialisation{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 12px;
+}
+
+/* ********************************************************************** */
+/* Main side bar style */
+.sidebar{
+    background-color: #1E2939;
+    font-style: italic;
+    padding-top: 40px;
+    width: 370px;
+}
+
+/* Photo`s parameters */
+.photo{
+    width: 370px;
+    margin-bottom: 50px;
+}
+
+/* Parameters of sidebar texts */
+.text_groups_sidebar{
+    margin-left: 40px;
+    margin-bottom: 45px;
+}
+
+/* Name titles in sadebar */
+.title_sidebar{
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+/* Parameters for contact`s texts */
+.contact_type{
+    font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 24px;   
+        color: #FFFFFF;
+        margin-right: 10px;
+}
+
+/* Contact`s link */
+.link{
+    font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #727983;    
+        opacity: 0.5;
+}
+
+/* ********************************************************************** */
+
+/* Tech./Soft skill`s list */
+.tech_skills_list,
+.soft_skills_list{
+    padding-left: 0;
+    margin-left: 18px;
+}
+
+/* Parameter(s) of marker(s) for tech. and soft skills*/
+.tech_mark,
+.soft_mark{
+color: #FB6D3A;
+}
+
+/* Parameter(s) of rows text for tech. and soft skills*/
+.tech_row,
+.soft_row{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
